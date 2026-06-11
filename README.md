@@ -14,7 +14,6 @@ visual storytelling.
 
 ## Tools & Skills
 - Power BI for dashboard design
-- SQL/Excel for data cleaning and modeling
 - Data visualization and storytelling
 
 ## Key Insights
