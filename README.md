@@ -91,6 +91,10 @@ Starbucks offers a wide variety of beverage categories.
 The dashboard provides geographical insights into Starbucks' global store distribution.
 
 # Dashboard Preview
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](https://github.com/malipriyanka2211-cloud/Starbucks-Beverage-Analytics-Dashboard)
 
-
+## 👤 Author
+- Priyanka Mali
+- M.Sc. Applied Statistics & Informatics
+- Aspiring Data Analyst
+- Skilled in Power BI, SQL, Python, and Excel
